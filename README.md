@@ -8,7 +8,7 @@ Q. Create an Video player application by following below instructions.
    switch from ne activity to another activity by usingexplicit intent.
 4. Add Internet Permssion in Manifest file.
    
--> Output :-
+<b>-> Output :-</b>
 
 ![WhatsApp Image 2023-10-04 at 1 23 24 AM](https://github.com/Harshil-Ghadiya/MAD_Practical-7_21012021031/assets/122811629/5fd06fa3-d9f7-4bbc-9454-fa9f414b5ae1
 
